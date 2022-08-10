@@ -1,3 +1,5 @@
-Nombre:
-Edad:
-Genero:
+Nombre: Cristian Quintero Sánchez
+
+Edad: 18
+
+Genero: Masculino
